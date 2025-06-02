@@ -1,0 +1,36 @@
+**Prompt for Chain-of-Thought Database Selection:**
+
+You are a database architect tasked with selecting the most appropriate database solution for a new application. I want you to use Chain-of-Thought reasoning to analyze the requirements step-by-step and justify your final recommendation.
+
+**Instructions:**
+1. Break down each requirement and explain what it means for database selection
+2. Consider different database types (relational, NoSQL document, graph, key-value, etc.)
+3. Evaluate how each database type handles the specific requirements
+4. Provide clear reasoning for eliminating unsuitable options
+5. Make a final recommendation with detailed justification
+
+**Application Requirements:**
+- Social platform with millions of users
+- Need to store user profiles, posts, and connections between users
+- High data read speed required
+- Expected 80% read operations, 20% write operations
+- Scalability is important as the user base grows
+
+**Please structure your response as follows:**
+
+**Step 1: Requirement Analysis**
+Analyze each requirement and explain its implications for database choice.
+
+**Step 2: Database Type Evaluation**
+Consider different database types and how they align with each requirement.
+
+**Step 3: Elimination Process**
+Explain which database types are less suitable and why.
+
+**Step 4: Final Recommendation**
+Select the most appropriate database type with complete justification.
+
+**Step 5: Implementation Considerations**
+Mention any additional considerations for the chosen solution.
+
+Think through this methodically, showing your reasoning at each step. Do not jump to conclusions - walk through the logical process of elimination and selection.
