@@ -1,0 +1,17 @@
+{
+  "summary": "Remote work has gained popularity, especially post-pandemic, offering benefits like improved work-life balance and cost savings but also presenting challenges such as isolation and productivity issues. Companies are increasingly adopting hybrid models to balance flexibility with collaboration needs.",
+  "sentiment": {
+    "classification": "neutral",
+    "score": 0.1,
+    "confidence": 85
+  },
+  "themes": ["remote work", "telecommuting", "work-life balance", "productivity challenges", "hybrid work models", "technology adaptation", "employee satisfaction", "operational costs"],
+  "word_count": {
+    "original": 246,
+    "summary": 35
+  },
+  "metadata": {
+    "analysis_timestamp": "2025-06-04",
+    "key_indicators": ["higher job satisfaction", "advantages are numerous", "not without its challenges", "struggle with feelings of isolation", "likely here to stay", "making it easier than ever"]
+  }
+}

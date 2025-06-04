@@ -1,0 +1,30 @@
+Please analyze the following text and provide:
+
+1. A concise summary (2-3 sentences maximum)
+2. Sentiment classification (positive, neutral, or negative)
+3. Sentiment score (-1 to +1, where -1 is very negative, 0 is neutral, +1 is very positive)
+4. Key themes or topics identified
+5. Confidence level of the sentiment analysis (0-100%)
+
+Return your analysis in the following JSON format:
+
+{
+  "summary": "Your concise summary here",
+  "sentiment": {
+    "classification": "positive/neutral/negative",
+    "score": 0.0,
+    "confidence": 0
+  },
+  "themes": ["theme1", "theme2"],
+  "word_count": {
+    "original": 0,
+    "summary": 0
+  },
+  "metadata": {
+    "analysis_timestamp": "current_date",
+    "key_indicators": ["specific words or phrases that influenced sentiment"]
+  }
+}
+
+Text to analyze:
+[INSERT YOUR TEXT HERE]
