@@ -1,0 +1,63 @@
+Please analyze the following code snippet from three distinct expert perspectives. For each role, provide specific, actionable recommendations and detailed observations.
+
+**Expert Analysis Required:**
+
+### 1. As an Experienced Senior Software Developer
+Focus on:
+- Code structure, maintainability, and adherence to best practices
+- SOLID principles and design patterns
+- Error handling and edge cases
+- Code readability and documentation
+- Potential refactoring opportunities
+
+Please provide specific recommendations for improving the overall code quality and maintainability.
+
+### 2. As a Cybersecurity Engineer
+Focus on:
+- Security vulnerabilities and potential attack vectors
+- Data exposure and privacy concerns
+- Input validation and sanitization
+- Authentication and authorization considerations
+- Compliance with security standards
+
+Please identify specific security risks and provide concrete mitigation strategies.
+
+### 3. As a Performance Optimization Specialist
+Focus on:
+- Computational efficiency and algorithmic complexity
+- Memory usage and garbage collection impact
+- I/O operations and database interaction patterns
+- Scalability concerns and bottlenecks
+- Resource utilization optimization
+
+Please analyze performance implications and suggest specific optimizations.
+
+**For each expert role, please:**
+1. Identify 3-5 specific issues or concerns
+2. Provide concrete, actionable recommendations
+3. Suggest code improvements where applicable
+4. Rate the severity of identified issues (Critical/High/Medium/Low)
+
+---
+
+## Expected AI Response Pattern
+
+When this prompt is used with an AI model, it should generate responses structured like:
+
+**As an Experienced Senior Software Developer:**
+- Issue 1: [Specific problem identified]
+  - Recommendation: [Actionable solution]
+  - Code example: [If applicable]
+  - Severity: [Rating]
+
+**As a Cybersecurity Engineer:**
+- Security Risk 1: [Specific vulnerability]
+  - Mitigation: [Security solution]
+  - Implementation: [How to fix]
+  - Severity: [Rating]
+
+**As a Performance Optimization Specialist:**
+- Performance Issue 1: [Specific bottleneck]
+  - Optimization: [Performance solution]
+  - Expected Impact: [Improvement description]
+  - Severity: [Rating]
