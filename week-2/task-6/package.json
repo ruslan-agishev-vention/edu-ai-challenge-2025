@@ -1,0 +1,13 @@
+{
+  "name": "enigma-machine",
+  "version": "1.0.0",
+  "description": "Historical Enigma machine implementation with comprehensive tests",
+  "main": "enigma.js",
+  "scripts": {
+    "test": "node enigma.test.js",
+    "start": "node enigma.js"
+  },
+  "keywords": ["enigma", "cryptography", "encryption", "historical"],
+  "author": "AI Assistant",
+  "license": "MIT"
+} 
