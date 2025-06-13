@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>ValidationLibrary</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>ValidationLibrary Team</Authors>
+    <Description>A robust validation library for complex data structures</Description>
+  </PropertyGroup>
+
+</Project> 
