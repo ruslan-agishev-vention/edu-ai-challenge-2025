@@ -1,0 +1,26 @@
+{
+  "word_count": 968,
+  "speaking_speed_wpm": 130,
+  "frequently_mentioned_topics": [
+    {
+      "topic": "Chest pain and symptoms",
+      "mentions": 20
+    },
+    {
+      "topic": "Possible heart attack and family history",
+      "mentions": 8
+    },
+    {
+      "topic": "Medical history and medications",
+      "mentions": 7
+    },
+    {
+      "topic": "Diagnostic tests and management",
+      "mentions": 5
+    },
+    {
+      "topic": "Lifestyle factors (smoking, alcohol, drug use)",
+      "mentions": 4
+    }
+  ]
+}
